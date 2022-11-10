@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08cb44eb-6831-4591-8f2a-62dbbffd250c" name="Default Changelist" comment="" />
+    <list default="true" id="f6ef2519-5644-423d-96cb-b9c68b13f737" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flutterlab6/lib/form.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pbp-flutter-tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pbp-flutter-tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutterlab6/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutterlab6/lib/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2H1d5eiSjj7aOM8wCiJjBXIz1hi" />
+  <component name="ProjectId" id="2HL5SLIH06r33bH9XJebJPCEL3s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,19 +30,31 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/flutterlab6" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Flutter Assignment/pbp-flutter-assignment/counter_7" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="08cb44eb-6831-4591-8f2a-62dbbffd250c" name="Default Changelist" comment="" />
-      <created>1667456341592</created>
+      <changelist id="f6ef2519-5644-423d-96cb-b9c68b13f737" name="Default Changelist" comment="" />
+      <created>1668051523146</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667456341592</updated>
+      <updated>1668051523146</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
